@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <a href="https://app.daily.dev/hankyb12"><img src="./devcard.png" width="356"  alt="Aaron's Dev Card"/></a>
 
 <!--
